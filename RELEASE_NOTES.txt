@@ -1,0 +1,17 @@
+Release Notes - Version 1.0.0
+
+🎉 Initial Production Release of Scientific Calculator Pro!
+
+New Features:
+- **Scientific Mode:** Trigonometry, Logarithms, Exponents.
+- **Matrix Calculator:** Add, Subtract, Multiply, Inverse, Determinant, Transpose.
+- **Function Grapher:** Plot multiple custom functions with interactive zoom/pan.
+- **Statistics Mode:** Descriptive stats, Linear Regression, and Histograms.
+- **Unit Converter:** Real-time conversion for Length, Mass, Temperature, and Time.
+- **Settings:** Customizable precision, themes (Dark/Light), and backup/restore.
+- **Performance:** Optimized calculation engine using custom parser.
+
+Improvements:
+- Persistent history of calculations.
+- Haptic feedback support.
+- Comprehensive error handling.
